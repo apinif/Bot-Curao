@@ -1,5 +1,4 @@
 piramide
-reloj
 picolo
 ruleta de shots
 carrera de caballos
